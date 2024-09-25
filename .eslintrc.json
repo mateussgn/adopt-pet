@@ -22,7 +22,7 @@
         "@typescript-eslint/no-misused-promises": "off",
         "linebreak-style": [
             "error",
-            "windows"
+            "linux"
         ],
         "quotes": [
             "error",
